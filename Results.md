@@ -47,7 +47,7 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | HL Groups vs HL Score Improvement     | 2.5             | 0.02661784454  |
 
 
-### 6. Correlation Between Changes in 'Unable to Define' Response Counts and HL Test Scores
+### 6. Correlation Between Changes in 'Unable to Define (UD)' Response Counts and HL Test Scores
 (Method: Pearson Correlation Coefficient)
 | Analysis                  | Pearson r       | p-value       |
 |---------------------------|-----------------|---------------|
