@@ -14,14 +14,14 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | NSLB vs post-HL     | 0.5903405008 | 0.006138852 |
 
 
-### 2. Correlation Analysis of NSLB Scores and Pre-Post 'Unable to Define (UD)' Response Difference in HL Test
+### 2. Correlation Analysis of NSLB Scores and 'Unable to Define (UD)' Response Difference in HL Test Scores
 (Method: Pearson Correlation Coefficient)
 | Analysis                              | Pearson r       | p-value      |
 |---------------------------------------|-----------------|--------------|
 | NSLB vs UD pre-post Difference        | -0.610453732    | 0.004254593  |
 
 
-### 3. Test Score Differences Across NSLB Groups (High, Mid, Low)
+### 3. Test Score Differences Across NSLB Groups (High, Mid, Low; Equally divided)
 (Method: One-way ANOVA)
 | Analysis    | F-statistic    | p-value       |
 |-------------|----------------|---------------|
@@ -39,7 +39,7 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | pre-HL vs post-HL       | -2.212895663     | 0.039343617   |
 
 
-### 5. Comparison of Post-Test Score Improvements Between Groups (High, Low)
+### 5. Comparison of Post-Test Score Improvements Between Groups (High, Low; Equally divided)
 (Method: Welch's t-test)
 | Test                                | t-statistic      | p-value        |
 |-------------------------------------|------------------|----------------|
@@ -51,10 +51,10 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 (Method: Pearson Correlation Coefficient)
 | Analysis                  | Pearson r       | p-value       |
 |---------------------------|-----------------|---------------|
-| UD Difference vs HL Difference | 0.865192715   | 8.47E-07      |
+| UD Difference vs HL Difference | 0.865192715   | 8.47e-07      |
 
 
-### 7. Pre-HL vs Post-HL Score Across NSLB Groups (High, Mid, Low)
+### 7. Pre-HL vs Post-HL Score Across NSLB Groups (High, Mid, Low; Equally divided)
 (Method: Paired Sample t-test)
 | Test       | t-statistic   | p-value  |
 |------------|---------------|----------|
