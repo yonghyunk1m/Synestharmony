@@ -11,7 +11,7 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | NSLB vs pre-MBEA    | 0.4182461411 | 0.066477323 |
 | NSLB vs post-MBEA   | 0.2640863014 | 0.2605451978 |
 | NSLB vs pre-HL      | 0.7201152619 | **0.000343016** |
-| NSLB vs post-HL     | 0.5903405008 |** 0.006138852** |
+| NSLB vs post-HL     | 0.5903405008 | **0.006138852** |
 
 
 ### 2. Correlation Analysis of NSLB Scores and 'Unable to Define (UD)' Response Difference in HL Test Scores
@@ -28,7 +28,7 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | pre-MBEA    | 2.567192557    | 0.1061066017  |
 | post-MBEA   | 1.7084826      | 0.2108097675  |
 | pre-HL      | 6.554856293    | **0.00775907**    |
-| post-HL     | 6.756139729    | **0.006930767 **  |
+| post-HL     | 6.756139729    | **0.006930767**  |
 
 
 ### 4. Pre- and Post-Test Mean Score Difference Analysis
@@ -59,5 +59,5 @@ A Game for Enhancing Music Perception through Sketch-Based Music Generation and 
 | Test       | t-statistic   | p-value  |
 |------------|---------------|----------|
 | Low group  | -1.2376       | 0.2661   |
-| Mid group  | -3.5626       |** 0.0162**   |
+| Mid group  | -3.5626       | **0.0162**   |
 | High group | 1.2632        | 0.2534   |
